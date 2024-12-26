@@ -1,3 +1,4 @@
+!pip install matplotlib
 # Configuration et importation des bibliothèques
 import pandas as pd
 import numpy as np
